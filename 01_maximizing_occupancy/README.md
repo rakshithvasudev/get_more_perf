@@ -29,4 +29,4 @@ Compile and run both examples to compare their performance.
 ## Further Reading
 
 - [CUDA Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
-- [CUDA Occupancy Calculator](https://docs.nvidia.com/cuda/cuda-occupancy-calculator/index.html)
+- [CUDA Occupancy Calculator](https://docs.nvidia.com/cuda/archive/12.2.1/cuda-occupancy-calculator/index.html#overview)
